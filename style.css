@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+main {
+  width: 80%;
+  margin: auto;
+}
+footer {
+  background-color: black;
+  color: white;
+  padding: 30px;
+  text-align: center;
+}
+.long-line {
+  font-size: 50px;
+  border-left: 3px salmon solid;
+
+  border-image-slice: 1;
+}
+.color {
+  color: cyan;
+}
+.font-large {
+  font-size: 20px;
+}
+
+.extreme,
+.without-limit {
+  display: flex;
+}
+.without-limit {
+  margin: 30px 0;
+}
+
+.half-width {
+  width: 50%;
+}
+button {
+  color: white;
+  background: salmon;
+  padding: 8px 15px;
+  border-radius: 10px;
+  border: none;
+}
+.cards {
+  display: flex;
+  width: 100%;
+}
+.fancy {
+  font-size: 50px;
+  text-align: center;
+}
+
+.box {
+  margin: 10px;
+  width: 500px;
+  padding: 20px;
+  border-radius: 20px;
+}
+.bg-pink {
+  background-color: rgb(243, 202, 198);
+}
+.bg-sky {
+  background-color: rgb(157, 216, 240);
+}
+.bg-golden {
+  background-color: rgb(235, 235, 153);
+}
+.font-medium {
+  font-size: 40px;
+}
+.right-content {
+  margin-left: 40px;
+}
